@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Env
+.env
+*.env
+
+# Runtime files
+scratchpad.md
+debug.log
+debug/
+
+# Assets - intermediate files
+assets/frames/
+assets/screenshot_*.svg
+assets/screenshot_*.png
+
+# IDE
+.vscode/
+.idea/

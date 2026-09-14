@@ -1,0 +1,190 @@
+[listening]
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c........c
+  .oo....oo.  GH
+  ...c.c.... |HH
+  ..------.. |G
+  c........
+ BBBBBBBBBBB
+ BBBWWWWWBBB
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c........c
+  .--....--.  GH
+  ...c.c.... |HH
+  ..------.. |G
+  c........
+ BBBBBBBBBBB
+ BBBWWWWWBBB
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c........c
+  .oo....oo.  GH
+  ...c.c.... |HH
+  ..------.. |G
+  c........
+ BBBBBBBBBBB
+ BBBWWWWWBBB
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c........c
+  .--....--.  GH
+  ...c.c.... |HH
+  ..------.. |G
+  c........
+ BBBBBBBBBBB
+ BBBWWWWWBBB
+
+[working]
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c.......c
+  .oo...oo.
+  ...c.c...
+  ..-----..
+  c.....s GH
+ BBBBBBBBBBB|H
+ BBBWWWWWBBB|
+          G
+         HHG
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c.......c
+  .oo...oo.
+  ...c.c...
+  ..-----..
+  c.......GH
+ BBBBBBBBBBB|HH
+ BBBWWWWWBBB|G
+          GH
+         HHG
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c.......c
+  .oo...oo.
+  ...c.c...
+  ..-----..
+  c.......GH
+ BBBBBBBBBBB|HH
+ BBBWWWWWBBB|G
+
+
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c.......c
+  .oo...oo.
+  ...c.c...
+  ..--^--..
+  c.......s
+ BBBBBBBBBBBs
+ BBBWWWWWBBB
+          GH
+         |HH
+          G
+
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c.......c
+  .oo...oo.
+  ...c.c...
+  ..-----..
+  c.......GH
+ BBBBBBBBBBB|HH
+ BBBWWWWWBBB|G
+
+
+[falling]
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c.......c
+  .xx...xx.
+  ...c.c...
+  ...___.
+  c.......GH
+ BBBBBBBBBBB|HH
+ BBBWWWWWBBB|G
+
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  c.......c~
+  .xx...xx.
+  ...c.c...
+  ...___..
+  c......GH
+ BBBBBBBBBB|HH
+ BBBWWWWBBB|G
+
+
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  !.......!
+  .xx...xx.
+  ...c.c...
+  ....___.
+  c......GH
+ BBBBBBBBB |HH
+ BBBWWWBBB |G
+
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  !.......!
+  .xx...xx.
+  ...c.c...
+  ....___..
+  c.......s
+ BBBBBBBBBBB s
+ BBBWWWWWBBBBB|
+          GH
+          HH
+
+---
+   yYYYYYYy
+  YYYYYYYYYh
+  YYYYYYYYYh
+  hYYYYYYYhh
+  !.......!~
+  .xx...xx.
+  ...c.c...
+  .....___..
+  c........
+ BBBBBBBBBBBB
+ BBBWWWWWBBBBB|
+          GHH
+           G
